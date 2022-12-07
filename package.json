@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/staten-island-tech/back-end-hw-2-express-crash-course-Fluffycat9999#readme",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.18.2",
     "express-handlebars": "^3.1.0",
     "handlebars": "^4.7.2",
     "moment": "^2.24.0"
